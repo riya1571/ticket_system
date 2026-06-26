@@ -1,4 +1,4 @@
- 1️ What is JSX, and why is it used?
+ 1. What is JSX, and why is it used?
 
 Answer:
 
@@ -6,7 +6,7 @@ JSX full form is JavaScript XML. It’s a syntax extension for JavaScript that l
 
 ---
 
- 2️ What is the difference between State and Props?
+ 2. What is the difference between State and Props?
 
 Answer:
 
@@ -16,7 +16,7 @@ Answer:
 
 ---
 
-3️ What is the useState hook, and how does it work?
+3. What is the useState hook, and how does it work?
 
 Answer:
 
@@ -24,7 +24,7 @@ useState is a React hook that let us add state to functional components. We can 
 
 ---
 
-4️ How can you share state between components in React?
+4. How can you share state between components in React?
 
 Answer:
 
@@ -32,7 +32,7 @@ To share state, we typically lift the state up to a common parent component and 
 
 ---
 
-5️ How is event handling done in React?
+5. How is event handling done in React?
 
 Answer:
 
