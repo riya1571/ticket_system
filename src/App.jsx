@@ -89,7 +89,7 @@ const handleComplete = (Id) =>{
 
            <img src={vector2} className="z-2 pl-10" />
          </div>
-
+ 
       </div>
 
       {/* MAIN PART */}
